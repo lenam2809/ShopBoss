@@ -10,6 +10,9 @@ namespace WebAPI.Profiles
         {
             CreateMap<Product, ProductDTO>();
             CreateMap<ProductDTO, Product>();
+
+            CreateMap<UserDTO, User>();
+            CreateMap<User, UserDTO>();
         }
     }
 }
