@@ -44,3 +44,6 @@ ShopBoss is a shop management application developed using .NET Core API and Next
 - .NET Core SDK
 - Node.js and npm
 - SQL Server
+  
+### Client
+[Shop Boss UI](https://github.com/lenam2809/next-shadcn-ui.git)
